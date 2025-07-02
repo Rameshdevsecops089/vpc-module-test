@@ -40,3 +40,8 @@ terraform.rc
 .terragrunt-cache
 
 testing/
+
+main.tf
+output.tf
+provider.tf
+variables.tf
